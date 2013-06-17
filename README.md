@@ -5,6 +5,7 @@ Redaxo FTPMirror AddOn
 
 How to install:
 Download the package, _rename the folder to **"rex_ftpmirror"**_ (without quotes) and upload it into your REDAXO AddOn dir.
+
 --
 
 
